@@ -1,3 +1,6 @@
 a.out
 .*
 !.gitignore
+SDL/
+SDL2/
+glfw/

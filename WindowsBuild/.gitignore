@@ -1,0 +1,6 @@
+.*
+*.exe
+bin/
+
+# Don't ignore gitignore
+!.gitignore
