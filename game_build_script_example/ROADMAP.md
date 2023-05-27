@@ -1,0 +1,2 @@
+- [ ] Add in makefile step to find all blend files
+- [ ] Add in makefile to process/render all blend files
